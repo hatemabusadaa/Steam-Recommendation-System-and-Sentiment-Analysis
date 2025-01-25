@@ -1,4 +1,6 @@
 # Steam-Recommendation-System-and-Sentiment-Analysis
+note:the main file and only one you need to run te project is complete_project the rest of the files are just subdivisions of the main file
+
 •	Designed a content-based recommendation system using TF-IDF and cosine similarity to suggest personalized games based on user preferences.
 
 •	Built an interactive chatbot powered by OpenAI's GPT4o, leveraging a Retrieval-Augmented Generation (RAG) pipeline integrated with Pinecone for semantic search and real-time document retrieval.
